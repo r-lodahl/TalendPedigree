@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_UE_9sNjWEeeVbcjM1cxHpQ" name="pedFile" dataPackage="_UFEPINjWEeeVbcjM1cxHpQ" Server="Localhost 127.0.0.1" FilePath="C:/TalendOS/workspace/in.ped" Encoding="US-ASCII" FieldSeparatorValue="&quot;\t&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="0" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Tabulation"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_UFEPINjWEeeVbcjM1cxHpQ" name="default" dataManager="_UE_9sNjWEeeVbcjM1cxHpQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_UFEPIdjWEeeVbcjM1cxHpQ" id="_8wbgcNjUEeeVbcjM1cxHpQ" label="PedImport">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPItjWEeeVbcjM1cxHpQ" label="_FamilyId" length="20" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPI9jWEeeVbcjM1cxHpQ" label="SubjId" length="20" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPJNjWEeeVbcjM1cxHpQ" label="FatherId" length="20" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPJdjWEeeVbcjM1cxHpQ" label="MotherId" length="20" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPJtjWEeeVbcjM1cxHpQ" label="Sex" length="6" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPJ9jWEeeVbcjM1cxHpQ" label="Phenotype" length="5" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPKNjWEeeVbcjM1cxHpQ" label="Genotype1" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPKdjWEeeVbcjM1cxHpQ" label="Genotype2" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPKtjWEeeVbcjM1cxHpQ" label="Genotype3" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPK9jWEeeVbcjM1cxHpQ" label="Genotype4" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPLNjWEeeVbcjM1cxHpQ" label="Genotype5" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPLdjWEeeVbcjM1cxHpQ" label="Genotype6" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPLtjWEeeVbcjM1cxHpQ" label="Genotype7" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UFEPL9jWEeeVbcjM1cxHpQ" label="Genotype8" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

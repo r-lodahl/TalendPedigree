@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_y7JvUdjSEeeVbcjM1cxHpQ" id="_y7JvUNjSEeeVbcjM1cxHpQ" label="PedMapToTranSMART" description="Nimmt eine PED- und eine MAP-Datei entgegen und formartiert diese so, dass sie mittels des tranSMART-Batch-Loaders in eine tranSMART-Umgebung importiert werden können." creationDate="2017-12-04T10:09:13.029+0100" modificationDate="2017-12-09T16:38:55.313+0100" version="0.1" statusCode="" item="_y7JvU9jSEeeVbcjM1cxHpQ" displayName="PedMapToTranSMART">
+    <author href="../talend.project#_v87zwM3nEeeK5PX35klgcQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_y7JvUtjSEeeVbcjM1cxHpQ" path="" locked="true" lockDate="2017-12-09T15:42:40.375+0100">
+    <locker href="../talend.project#_v87zwM3nEeeK5PX35klgcQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_y7JvU9jSEeeVbcjM1cxHpQ" property="_y7JvUdjSEeeVbcjM1cxHpQ" state="_y7JvUtjSEeeVbcjM1cxHpQ">
+    <process href="PedMapToTranSMART_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

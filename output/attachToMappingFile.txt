@@ -1,0 +1,17 @@
+filename	category_cd	col_nbr	data_label
+pedOut.txt		1	STUDY_ID
+pedOut.txt		2	SUBJ_ID
+pedOut.txt	Subjects+Family	3	Family Id
+pedOut.txt	Subjects+Family	4	Subject Id
+pedOut.txt	Subjects+Family	5	Paternal Id
+pedOut.txt	Subjects+Family	6	Maternal Id
+pedOut.txt	Subjects+Demographics	7	Sex
+pedOut.txt	Subjects+Affection Data	8	Affection Status
+pedOut.txt	Subjects+Affection Data	9	rs3883674
+pedOut.txt	Subjects+Affection Data	10	rs11511647
+pedOut.txt	Subjects+Affection Data	11	rs12218882
+pedOut.txt	Subjects+Affection Data	12	rs10904045
+pedOut.txt	Subjects+Affection Data	13	rs10751931
+pedOut.txt	Subjects+Affection Data	14	rs11252127
+pedOut.txt	Subjects+Affection Data	15	rs12775203
+pedOut.txt	Subjects+Affection Data	16	rs12255619

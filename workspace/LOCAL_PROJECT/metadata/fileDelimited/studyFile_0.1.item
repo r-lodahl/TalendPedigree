@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_o4JDYdkAEeeNP4T-rQxZfQ" name="studyFile" dataPackage="_o4JDYtkAEeeNP4T-rQxZfQ" Server="Localhost 127.0.0.1" FilePath="C:/TalendOS/workspace/in.study" Encoding="US-ASCII" FieldSeparatorValue="&quot;\t&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Tabulation"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_o4JDYtkAEeeNP4T-rQxZfQ" name="default" dataManager="_o4JDYdkAEeeNP4T-rQxZfQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_o4JDY9kAEeeNP4T-rQxZfQ" id="_g6jhwNkAEeeNP4T-rQxZfQ" label="studyFile">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_o4JDZNkAEeeNP4T-rQxZfQ" label="STUDY_ID" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
